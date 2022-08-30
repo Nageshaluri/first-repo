@@ -1,2 +1,4 @@
 # first-repo
-creating repository
+creating repository  
+nagesh aluri  
+sun rises in the east  
